@@ -1,0 +1,14 @@
+
+@media only screen and (min-width:$desktop){
+    
+}
+
+@media screen and (min-width:$phone){
+
+}
+
+@mixin media-phone {
+    
+ @media only screen and (min-width:$tablette){
+ }
+}

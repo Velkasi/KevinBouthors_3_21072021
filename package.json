@@ -1,0 +1,16 @@
+{
+  "name": "projet3",
+  "version": "1.0.0",
+  "description": "Ohmyfood",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prefix": "postcss ./styles.css --use autoprefixer -d ./prefixed"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserlslist": "last 4versions",
+  "dependencies": {
+    "sass": "^1.36.0"
+  }
+}
